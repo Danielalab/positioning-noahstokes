@@ -1,0 +1,22 @@
+h1 {
+    background-color: #fcad38;
+    color: white;
+    display: block ;
+    font-family: 'Gloria Hallelujah', cursive;
+    padding-left: 100px;
+}
+
+li {
+    margin-left: 70px;
+    color : #ff6004;
+}
+
+a {
+    color: #ffffff;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+    background-image: url('../assets/images/fondo2.jpg');
+    background-color: rgb(252, 236, 98);
+}
