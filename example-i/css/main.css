@@ -1,0 +1,14 @@
+footer{
+    padding: 10px;
+    padding-left: 340px;
+    background-color: #ff8ca1;
+    position: fixed; 
+    bottom: 0; 
+    left: 0; 
+    right: 0; 
+}
+
+p{
+    padding-right: 335px;
+    padding-left: 335px;
+}
